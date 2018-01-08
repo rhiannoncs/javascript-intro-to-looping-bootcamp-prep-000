@@ -15,5 +15,3 @@ function whileLoop(number) {
   }
   return ("done")
 }
-
-console.log(whileLoop(5))
